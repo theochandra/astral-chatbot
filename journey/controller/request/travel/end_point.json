@@ -1,0 +1,6 @@
+{
+    "url_service" : "https://rest-astral-hannyptr.c9users.io",
+    "path_inq_province" : "/province/inquiry",
+    "path_inq_city" : "/city/inquiry",
+    "path_inq_adventure" : "/adventure/inquiry"
+}

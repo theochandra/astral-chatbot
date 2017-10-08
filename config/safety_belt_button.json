@@ -1,0 +1,41 @@
+{
+	"journey" : [
+		"menu": "Let's travel",
+		"list_of_state": [
+			{
+				"step": 111,
+				"state": "Select province",
+				"list_of_stories" : [
+					"story": "Jawa Barat",
+					"story": "Banten",
+					"story": "DKI Jakarta",
+					"story": "Jawa Tengah",
+					"story": "DI Yogyakarta",
+					"story": "Jawa Timur"
+				]
+			},
+			{
+				"step": 112,
+				"state": "Select place",
+				"list_of_stories": [
+					"story": "Gunung Kidul",
+					"story": "Bantul",
+					"story": "Sleman",
+					"story": "Kulon Progo",
+					"story": "Jogja Kota"
+				]
+			},
+			{
+				"step": 113,
+				"state": "Select Destination",
+				"list_of_story": [
+					"story": "Pantai Wedi Ombo",
+					"story": "Pantai Baron",
+					"story": "Pantai #1",
+					"story": "Pantai #2",
+					"story": "Pantai #3"
+				]
+			}
+		]
+	]
+}

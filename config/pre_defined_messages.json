@@ -1,0 +1,16 @@
+{
+    "journey": [
+        {
+            "menu": "Let's travel",
+            "list_of_message": {
+                "travel_step_0": "Ingin traveling, Astral tahu destinasi travel yang kece.\nSilahkan pilih salah satu propinsi di bawah ini."
+            }
+        },
+        {
+            "menu": "Message general",
+            "list_of_message": {
+                "error_message_general": "Yah, untuk sementara Astral belum bisa membantu kamu dulu 😟"
+            }
+        }
+    ]
+}
