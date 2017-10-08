@@ -1,3 +1,3 @@
 [requires]
-python_version = "2.7.14"
+python_version = "3.6.2"
 deploy:astral
